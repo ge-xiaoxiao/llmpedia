@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://llmpedia.example.com/llmpedia/sitemap.xml
+Sitemap: https://llmpedia.example.com/sitemap.xml
