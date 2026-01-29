@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/llmpedia/",
+  base: "/",
 
   lang: "zh-CN",
   title: "LLMPedia - 大模型面试八股题",
