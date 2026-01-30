@@ -1,1 +1,7 @@
 // place your custom styles here
+// 减小侧边栏字体大小
+.vp-sidebar,
+.vp-catalog,
+.vp-catalog-title {
+  font-size: 0.9em; // 根据需要调整大小
+}

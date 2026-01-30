@@ -4,24 +4,22 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://llmpedia.example.com",
+  hostname: "https://llmpedia.online",
 
   author: {
     name: "LLMPedia",
-    url: "https://llmpedia.example.com",
+    url: "https://llmpedia.online",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://img.feria.eu.org/9c9ris.svg",
 
-  repo: "your-repo/llmpedia",
+  repo: "ge-xiaoxiao/llmpedia",
 
   docsDir: "src",
 
   navbar: zhNavbar,
 
   sidebar: zhSidebar,
-
-  footer: "专注于大模型面试八股题整理 | LLMPedia © 2024",
 
   displayFooter: true,
 
