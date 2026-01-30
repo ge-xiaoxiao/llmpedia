@@ -7,6 +7,7 @@ export const zhNavbar = navbar([
     prefix: "/docs/fundamentals/",
     children: [
       { text: "数学基础", link: "mathematics.md" },
+      { text: "编程语言", link: "program-language.md" },
       { text: "数据结构", link: "data-structure.md" },
       { text: "计算机系统基础", link: "cs-system-base.md" },
       { text: "计算机网络基础", link: "computer-network.md" },

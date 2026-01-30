@@ -10,6 +10,11 @@ export const zhSidebar = sidebar({
       link: "mathematics.md",
     },
     {
+      text: "编程语言",
+      icon: "code",
+      link: "program-language.md",
+    },
+    {
       text: "数据结构",
       icon: "laptop-code",
       link: "data-structure.md",
